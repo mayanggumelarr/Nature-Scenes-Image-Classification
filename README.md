@@ -15,4 +15,7 @@ Inference model dilakukan dengan metode get dari inputan user. <br>
 <br>
 
 **GET DATASET :** <br>
-Kamu bisa mendapatkan di URL: `https://www.kaggle.com/datasets/puneet6060/intel-image-classification`
+Kamu bisa mendapatkan di URL: `https://www.kaggle.com/datasets/puneet6060/intel-image-classification` <br>
+
+**GET FULL FILE PROJECTS :** <br>
+Kamu bisa mengunduh file .zip di drive: `https://drive.google.com/file/d/1IgE7kREgqJu0equL-OXPBCOZa664_k2n/view?usp=drive_link`
